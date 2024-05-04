@@ -37,7 +37,7 @@ In the future, I plan to enhance this project by:
 
 ## Connect with Me
 
-If you're interested in collaborating on this project or discussing processor design, feel free to connect with me on LinkedIn: [Your LinkedIn Profile Link](https://www.linkedin.com/in/yourprofile/)
+If you're interested in collaborating on this project or discussing processor design, feel free to connect with me on LinkedIn: https://www.linkedin.com/in/isuru-deshapriya-b1a4b2265/
 
 Happy coding! 🚀
 
